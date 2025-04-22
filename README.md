@@ -1,15 +1,33 @@
-# 👋 Hi there, I'm Taufich
+# 👋 Hi there, I'm Taufic
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building useful tools, automation scripts, and user-friendly web applications. I enjoy turning ideas into real, functioning apps — especially when they simplify processes for others.
+Welcome to my GitHub profile! I'm a passionate full-stack developer focused on building useful tools, automation scripts, and user-friendly applications across multiple platforms. I enjoy turning ideas into real, functioning solutions — especially when they simplify processes for others.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript
-- **Frameworks**: Streamlit, Flask, React
-- **Database**: PostgreSQL, Firebase
-- **Tools**: Git & GitHub, Docker, VS Code
+### Languages
+- Python, JavaScript, Java, PHP, C#, SQL
+
+### Frontend
+- React, Flutter, Bootstrap, Thymeleaf
+
+### Backend & Frameworks
+- Spring Boot, Django, Flask, .NET Core Web API
+- Streamlit, REST APIs
+
+### Databases
+- PostgreSQL, Firebase, SQL Server, Mongo DB, Mysql
+
+### DevOps & Tools
+- Git & GitHub, Docker, VS Code
+- Linux, Windows, Android OS
+
+### Certifications
+- Linux Essentials
+- Computer Networks Essentials
+- IoT Certified by NESA RWANDA
+- Computer Maintenance
 
 ---
 
@@ -24,16 +42,12 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building use
 - 🔐 [Streamlit Login App](https://github.com/taufich/streamlit-login-app)  
   A lightweight, secure login form made with Streamlit for internal tools or prototypes.
 
+
+
 ---
 
 ## 📫 Get in Touch
 
-- 📧 Email: your@email.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: taufichabumugisha@gmail.com
 
----
 
-## 📈 GitHub Stats
-
-![Taufich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taufich&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taufich&layout=compact&theme=radical)
